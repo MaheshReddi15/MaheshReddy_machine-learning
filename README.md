@@ -1,0 +1,1 @@
+for the assignment 5,before running the streamlit in command prompt install the necessity libraries(streamlit,scikit-learn,matplot lib and seaborn) and run the assignment with the command 'streamlit run [filename]'.
